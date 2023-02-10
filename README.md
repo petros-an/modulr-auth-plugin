@@ -2,7 +2,7 @@ To install:
 
 - find your insomnia plugins directory by going to Preferences->Plugins->Reveal directory
 
-- place the insomnia-plugin-modulr-auth there
+- place the plugin directory there, named insomnia-plugin-modulr-auth
 
 - npm install inside the folder
 
